@@ -46,19 +46,6 @@ The following libraries are required:
 
 ---
 
-## Project Structure
-
-```
-IMDB-Data-Scraping/
-│
-├── Data Scraping on IMDb.ipynb   # Main notebook
-├── README.md                     # Project documentation
-├── requirements.txt              # List of dependencies
-└── outputs/                      # Directory for storing scraped data
-```
-
----
-
 ## Output
 
 The notebook generates cleaned and structured datasets, typically in CSV or JSON format, containing relevant movie details. These outputs can be used for analysis, visualization, or machine learning tasks.
