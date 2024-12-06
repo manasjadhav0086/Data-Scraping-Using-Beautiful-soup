@@ -57,6 +57,3 @@ The notebook generates cleaned and structured datasets, typically in CSV or JSON
 - **IMDb** for providing a comprehensive database of movie information.
 - **BeautifulSoup** for making web scraping easy and intuitive.
 
----
-
-Let me know if you'd like me to add further sections or details!
